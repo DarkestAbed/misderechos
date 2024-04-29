@@ -1,0 +1,8 @@
+# folders
+venv/
+__pycache__/
+.vscode/
+.pytest_cache/
+# files
+*.pyc
+*.log
